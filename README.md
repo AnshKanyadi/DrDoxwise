@@ -1,0 +1,1 @@
+Code needs to be adjusted to work. Create a pictures folder and set the directory to it in the code (folder can be named anything). Then, create a Temp folder, Filtered Images folder, and Altered Images folder (word for word caps sensitive). 
